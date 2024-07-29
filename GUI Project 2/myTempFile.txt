@@ -1,0 +1,30 @@
+Student ID,Student Name,Student Major,Course ID,Course Name,Department,Credits
+200088,William Raub,Computer Science,CSC1106,The Art of Programming,Computer Science,4.0
+200088,William Raub,Computer Science,Discrete Math,Computer Science,4.0
+200088,William Raub,Computer Science,MAT1117,Calculus I,Mathematics,4.0
+200270,Bobby McLain,Computer Science,CSC2206,Intermediate Java,Computer Science,4.0
+200270,Bobby McLain,Computer Science,CSC2209,Computer Organization,Computer Science,4.0
+200270,Bobby McLain,Computer Science,MAT2219,Calculus III,Mathematics,4.0
+200270,Bobby McLain,Computer Science,ENG2206,Creative Writing-Poetry,English,4.0
+200314,Franklin Babb,Physics,CSC2206,Intermediate Java,Computer Science,4.0
+200314,Franklin Babb,Physics,MAT2224,Fundamentals of Mathematics,Mathematics,4.0
+200314,Franklin Babb,Physics,PHY2201,Mathematical Physics,Physics,4.0
+200314,Franklin Babb,Physics,PHY2202,Intermediate Mechanics,Physics,4.0
+200314,Franklin Babb,Physics,BIO1111,Principles of Biology,Biology,4.0
+200708,Emilia Boyle,Computer Science,CSC2217,Data Structures,Computer Science,4.0
+200708,Emilia Boyle,Computer Science,CSC3312,Algorithms,Computer Science,4.0
+200708,Emilia Boyle,Computer Science,CSC3365,Data Science,Computer Science,4.0
+200708,Emilia Boyle,Computer Science,MAT3304,Differential Equations,Mathematics,4.0
+200806,Raymond Caddell,Mathematics,MAT1118,Calculus II,Mathematics,4.0
+200806,Raymond Caddell,Mathematics,MAT2218,Linear Algebra,Mathematics,4.0
+200806,Raymond Caddell,Mathematics,ENG2207,Creative Writing-Fiction,English,4.0
+200806,Raymond Caddell,Mathematics,CSC1106,The Art of Programming,Computer Science,4.0
+200815,Mary Aper,Biology,BIO2201,Vertebrate Diversity,Biology,4.0
+200815,Mary Aper,Biology,BIO2203,Genetics,Biology,4.0
+200815,Mary Aper,Biology,BIO2207,Evolution,Biology,4.0
+200815,Mary Aper,Biology,ENG2207,Creative Writing-Fiction,English,4.0
+200712,Ron Sanson,Biology,BIO2203,Genetics,Biology,4.0
+200712,Ron Sanson,Biology,CSC1106,The Art of Programming,Computer Science,4.0
+200712,Ron Sanson,Biology,BIO2208,Molecular Biology,Biology,4.0
+200712,Ron Sanson,Biology,BIO2234,Marine Biology,Biology,4.0
+200712,Ron Sanson,Biology,ENG2206,Creative Writing-Poetry,English,4.0

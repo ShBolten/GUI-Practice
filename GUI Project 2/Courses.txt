@@ -1,0 +1,42 @@
+Course ID,Course Name,Department,Credits
+CSC1106,The Art of Programming,Computer Science,4.0
+CSC1109,Discrete Math,Computer Science,4.0
+CSC2206,Intermediate Java,Computer Science,4.0
+CSC2209,Computer Organization,Computer Science,4.0
+CSC2217,Data Structures,Computer Science,4.0
+CSC3312,Algorithms,Computer Science,4.0
+CSC3365,Data Science,Computer Science,4.0
+MAT1117,Calculus I,Mathematics,4.0
+MAT1118,Calculus II,Mathematics,4.0
+MAT2218,Linear Algebra,Mathematics,4.0
+MAT2219,Calculus III,Mathematics,4.0
+MAT2224,Fundamentals of Mathematics,Mathematics,4.0
+MAT3304,Differential Equations,Mathematics,4.0
+MAT3316,Complex Analysis,Mathematics,4.0
+ENG2206,Creative Writing-Poetry,English,4.0
+ENG2207,Creative Writing-Fiction,English,4.0
+ENG2208,Advanced Composition,English,4.0
+ENG2212,Professional Communication,English,4.0
+ENG2272,Popular Romance Fiction,English,4.0
+PHY1114,General Physics I,Physics,4.0
+PHY1115,General Physics II,Physics,4.0
+PHY2201,Mathematical Physics,Physics,4.0
+PHY2202,Intermediate Mechanics,Physics,4.0
+PHY3309,Investigations in Physics,Physics,4.0
+PHY4401,Quantum Mechanics,Physics,4.0
+BIO1111,Principles of Biology,Biology,4.0
+BIO1117,Topics in Biology,Biology,4.0
+BIO2201,Vertebrate Diversity,Biology,4.0
+BIO2203,Genetics,Biology,4.0
+BIO2204,Botany,Biology,4.0
+BIO2205,Invertebrate Zoology,Biology,4.0
+BIO2206,Epidemiology,Biology,4.0
+BIO2207,Evolution,Biology,4.0
+BIO2208,Molecular Biology,Biology,4.0
+BIO2212,Microbiology,Biology,4.0
+BIO2221,Neurobiology,Biology,4.0
+BIO2225,Endocrinology,Biology,4.0
+BIO2234,Marine Biology,Biology,4.0
+BIO3310,Cell Biology,Biology,4.0
+BIO3312,Genomics,Biology,4.0
+BIO3317,Ecology,Biology,4.0
